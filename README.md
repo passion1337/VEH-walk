@@ -223,3 +223,4 @@ typedef struct _LDR_VECTOR_HANDLER_ENTRY {
 ### credits 
 msdn : [ <url>https://learn.microsoft.com/ko-kr/windows/win32/debug/vectored-exception-handling</url> ]   
 reactos : [ <url> https://doxygen.reactos.org/d5/d55/vectoreh_8c_source.html </url> ]
+header : [ <url>https://github.com/winsiderss/systeminformer/tree/master/phnt</url> ]
